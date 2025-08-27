@@ -1,4 +1,5 @@
 ## This pipeline is for genomics data analysis 
+>-------
 ### Tools used in this pipeline are:
 1- FastQC / for quality check                                                                                                
 2- Trimmomatic / for QC (trimming and adaptor removal)                                                                                
